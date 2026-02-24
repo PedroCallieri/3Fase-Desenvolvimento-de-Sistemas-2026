@@ -1,0 +1,13 @@
+Jest Instalação,onfiguração e Teste
+
+1 instalar com o comando:
+"npm install --save-dev jest"
+Que a gente pega la no site do jest nas documentações.
+
+2 configurar o jest com o comando dentro test la na pasta json:
+"node --experimental-vm-modules node_modules/jest/bin/jest.js" 
+E assim a gente pode chamar esse comando grande apenas dando um "npm run test" 
+ao inves de algo grande como o comando completo faciliando tudo 
+
+3 testando no pack json:
+Dando um "NPM RUN TEST" ou um nome especifico que você tenha dado pro "test"    
