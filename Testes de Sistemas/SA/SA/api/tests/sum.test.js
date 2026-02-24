@@ -3,7 +3,7 @@ test("Soma de vinte mais quatro é vinte e quatro" ,() =>
 });
 
 
-
+// Exemplo
 const can = {
   name: 'pamplemousse',
   ounces: 12,
@@ -18,7 +18,7 @@ describe('the can', () => {
     expect(can.name).toBe('pamplemousse');
   });
 });
-
+ 
 
 const fruit01 = {
   flavor: 'grapefruit',
