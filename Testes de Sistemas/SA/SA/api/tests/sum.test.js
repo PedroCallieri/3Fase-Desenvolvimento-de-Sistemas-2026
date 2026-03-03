@@ -3,7 +3,7 @@ test("Soma de vinte mais quatro é vinte e quatro" ,() =>
 });
 
 
-// Exemplo
+// Exemplo ToBe
 const can = {
   name: 'pamplemousse',
   ounces: 12,
@@ -19,7 +19,7 @@ describe('the can', () => {
   });
 });
  
-
+// Exemplo toEqual
 const fruit01 = {
   flavor: 'grapefruit',
   ounces: 12,
