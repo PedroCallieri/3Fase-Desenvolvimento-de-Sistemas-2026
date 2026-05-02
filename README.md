@@ -1,23 +1,33 @@
-# 📚 StudyFlow
+
+---
+
+# 🏥 README — CLINIC SYSTEM (WEB)
+
+Aqui você mostra trabalho em equipe.
+
+```md
+# 🏥 Clinic System (Web)
 
 ## 📌 Descrição
-O StudyFlow é uma aplicação para gerenciamento de estudos, permitindo organizar sessões de estudo, acompanhar o progresso e melhorar a produtividade.
+Interface web de um sistema de gerenciamento clínico, permitindo visualizar e interagir com dados de pacientes e atendimentos.
 
 ## 🚀 Tecnologias
+- React
 - TypeScript
-- Node.js
-- (coloca aqui o que você usou: Express, Prisma, etc.)
+- (ou o que você usou)
 
 ## ⚙️ Funcionalidades
-- Cadastro de usuários
-- Criação de sessões de estudo
-- Listagem de sessões
-- Atualização e remoção de dados
+- Cadastro de pacientes
+- Listagem de dados
+- Interface para gerenciamento clínico
 
-## 🧠 Objetivo
-Este projeto foi desenvolvido para praticar desenvolvimento full stack e organização de dados para estudos.
+## 🧠 Contexto
+Projeto desenvolvido em conjunto durante o curso técnico de desenvolvimento de sistemas.
 
-## ▶️ Como rodar o projeto
+## 👨‍💻 Minha contribuição
+- (ex: criação de telas, integração com API, etc.)
+
+## ▶️ Como rodar
 
 ```bash
 npm install
