@@ -30,7 +30,7 @@ export class UsuarioRepository {
       },
     });
   }
-
+  
   async atualizarUsuario(
     idUsuario: number,
     dadosParaAtualizar: Omit<Usuario, "id">,
